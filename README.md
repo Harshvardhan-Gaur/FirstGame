@@ -1,5 +1,27 @@
-Press 'W', 'A', and 'D' to jump, move left and move right respectively.
-Press 'W' twice for double jump.
-Avoid contact with fire, on contact with fire you will lose some life.
-Consuming juice will increase your life.
-Game ends if you fall or your life becomes 0.
+# Game Instructions
+
+Welcome to our game! Here's how to play:
+
+## Controls:
+- Press `W` to jump.
+- Press `A` to move left.
+- Press `D` to move right.
+- Press `W` twice for a double jump.
+
+## Game Elements:
+- **Fire:** Avoid contact with fire. On contact, you will lose 3 life per second.
+- **Juice:** Consuming juice will increase your life by 5 points.
+
+## Scoring:
+- **Starting Life:** You begin the game with 10 points of life.
+- **Points Calculation:**
+  - Lose 3 points of life per second upon touching fire.
+  - Gain 5 points of life upon consuming juice.
+
+## Objective:
+- Your goal is to navigate through the obstacles, avoiding fire and collecting juice to maintain or increase your life points.
+- The game ends if you fall or your life points reach 0.
+
+## Have Fun!
+Enjoy playing the game and aim for a high score! If you have any feedback or suggestions, feel free to let us know. Happy gaming!
+
