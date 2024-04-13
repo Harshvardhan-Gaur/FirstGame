@@ -25,7 +25,7 @@ Welcome to our game! Here's how to play:
 ## Installation:
 To play the game, follow these steps:
 1. Download the `MaskEscape.py` file to your local device.
-2. Download all the files in the `setup` folder and place them in the same folder as the `MaskEscape.py` file.
+2. Download all the files in the `setup` folder, make a folder named `setup` and place this folder in the same folder as the `MaskEscape.py` file.
 3. Run the `MaskEscape.py` file on your device.
 
 ## Have Fun!
